@@ -1,0 +1,2 @@
+Get-AzSubscription
+Get-AzADUser
